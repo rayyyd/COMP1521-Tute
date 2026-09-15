@@ -1,9 +1,0 @@
-    .text
-
-main:
-
-
-
-
-
-    .data
